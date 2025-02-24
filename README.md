@@ -81,9 +81,7 @@ A: At the beginning, I researched the purpose of each render pipeline and the to
 
 Q: Implementation tools and extensions should vary depending on the features of the objects I want to use in the project. 
 
-A: The tools I chose were _Probuilder_ for the level design, Blender game engine for modeling objects, and Post Processing Volume for lighting. 
-(PPS lower case, picking up the post-processing in one sentence, separate the sentence into the second)
-To sum up, Post Processing Volume for lighting was the only tool that I actually used in practice. As for the other extensions, they lacked the functionalities I needed. Additionally, 3D modeling in Unity was already sufficient for me so it didn't end up using additional game engines. 
+A: The tools I chose were _Probuilder_ for the level design, Blender game engine for modeling objects, and post processing volume for lighting. To sum up, post processing volume for lighting was the only tool that I actually used in practice. As for the other extensions, they lacked the functionalities I needed. Additionally, 3D modeling in Unity was already sufficient for me so it didn't end up using additional game engines. 
 
 
 ### Mechanics
